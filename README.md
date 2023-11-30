@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🧑‍🎨 Front-end Developer<br>✨ Creating bugs since 1998<br>🎯 Goals: Become a Polyglot, become a fullstack developer and have a new goal...</p>
+<p align="left">🧑‍🎨 Front-end Developer
 
 ###
 
