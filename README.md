@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
 <p align="left">🧑‍🎨 Front-end Developer
 
 ###
